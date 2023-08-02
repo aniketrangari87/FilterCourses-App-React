@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FilterCourses-App-React/static/css/main.270c5f89.css",
+    "main.js": "/FilterCourses-App-React/static/js/main.cedcceec.js",
+    "index.html": "/FilterCourses-App-React/index.html",
+    "main.270c5f89.css.map": "/FilterCourses-App-React/static/css/main.270c5f89.css.map",
+    "main.cedcceec.js.map": "/FilterCourses-App-React/static/js/main.cedcceec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270c5f89.css",
+    "static/js/main.cedcceec.js"
+  ]
+}
